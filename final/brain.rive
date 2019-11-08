@@ -1,0 +1,18 @@
+! var lpost = left post
+! var rpost = right post
+! var crossbar = crossbar
+! var ball = ball
+
+! sub where's = where is 
+
++ hello bot
+- hi. are you ready to play?
+
++ where is the *
+* <star> == <bot lpost> => leftpost
+* <star> == <bot rpost> => rightpost
+* <star> == <bot crossbar> => crossbar
+* <star> == <bot ball> => ball
+
++ *
+- I can help you kick the ball. Ask me what you want to find.
